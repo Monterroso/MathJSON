@@ -2,67 +2,128 @@
   "math_problems": [
     {
       "id": 1,
-      "question": "5 + 3",
-      "answer": 8,
+      "question": "What is 5 + 3?",
+      "choices": {
+        "A": 6,
+        "B": 7,
+        "C": 8,
+        "D": 9
+      },
+      "answer_key": "C",
       "difficulty": "easy"
     },
     {
       "id": 2,
-      "question": "12 - 7",
-      "answer": 5,
+      "question": "What is 12 - 7?",
+      "choices": {
+        "A": 3,
+        "B": 4,
+        "C": 5,
+        "D": 6
+      },
+      "answer_key": "C",
       "difficulty": "easy"
     },
     {
       "id": 3,
-      "question": "9 × 6",
-      "answer": 54,
+      "question": "What is 9 × 6?",
+      "choices": {
+        "A": 45,
+        "B": 54,
+        "C": 63,
+        "D": 72
+      },
+      "answer_key": "B",
       "difficulty": "medium"
     },
     {
       "id": 4,
-      "question": "45 ÷ 5",
-      "answer": 9,
+      "question": "What is 45 ÷ 5?",
+      "choices": {
+        "A": 8,
+        "B": 9,
+        "C": 10,
+        "D": 11
+      },
+      "answer_key": "B",
       "difficulty": "medium"
     },
     {
       "id": 5,
-      "question": "3² + 4²",
-      "answer": 25,
+      "question": "What is 3² + 4²?",
+      "choices": {
+        "A": 12,
+        "B": 19,
+        "C": 24,
+        "D": 25
+      },
+      "answer_key": "D",
       "difficulty": "medium"
     },
     {
       "id": 6,
-      "question": "√81",
-      "answer": 9,
+      "question": "What is √81?",
+      "choices": {
+        "A": 7,
+        "B": 8,
+        "C": 9,
+        "D": 10
+      },
+      "answer_key": "C",
       "difficulty": "medium"
     },
     {
       "id": 7,
-      "question": "15% of 200",
-      "answer": 30,
+      "question": "What is 15% of 200?",
+      "choices": {
+        "A": 20,
+        "B": 25,
+        "C": 30,
+        "D": 35
+      },
+      "answer_key": "C",
       "difficulty": "hard"
     },
     {
       "id": 8,
-      "question": "7 × (8 + 2)",
-      "answer": 70,
+      "question": "What is 7 × (8 + 2)?",
+      "choices": {
+        "A": 56,
+        "B": 63,
+        "C": 70,
+        "D": 77
+      },
+      "answer_key": "C",
       "difficulty": "hard"
     },
     {
       "id": 9,
-      "question": "(25 ÷ 5) + (6 × 3)",
-      "answer": 23,
+      "question": "What is (25 ÷ 5) + (6 × 3)?",
+      "choices": {
+        "A": 21,
+        "B": 22,
+        "C": 23,
+        "D": 24
+      },
+      "answer_key": "C",
       "difficulty": "hard"
     },
     {
       "id": 10,
-      "question": "(12²) - (8²)",
-      "answer": 80,
+      "question": "What is (12²) - (8²)?",
+      "choices": {
+        "A": 64,
+        "B": 80,
+        "C": 88,
+        "D": 100
+      },
+      "answer_key": "B",
       "difficulty": "hard"
     }
   ],
   "metadata": {
     "count": 10,
+    "type": "multiple_choice",
     "source": "generated",
     "version": 1.0
   }
