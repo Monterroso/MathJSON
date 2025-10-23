@@ -1,0 +1,69 @@
+{
+  "math_problems": [
+    {
+      "id": 1,
+      "question": "5 + 3",
+      "answer": 8,
+      "difficulty": "easy"
+    },
+    {
+      "id": 2,
+      "question": "12 - 7",
+      "answer": 5,
+      "difficulty": "easy"
+    },
+    {
+      "id": 3,
+      "question": "9 × 6",
+      "answer": 54,
+      "difficulty": "medium"
+    },
+    {
+      "id": 4,
+      "question": "45 ÷ 5",
+      "answer": 9,
+      "difficulty": "medium"
+    },
+    {
+      "id": 5,
+      "question": "3² + 4²",
+      "answer": 25,
+      "difficulty": "medium"
+    },
+    {
+      "id": 6,
+      "question": "√81",
+      "answer": 9,
+      "difficulty": "medium"
+    },
+    {
+      "id": 7,
+      "question": "15% of 200",
+      "answer": 30,
+      "difficulty": "hard"
+    },
+    {
+      "id": 8,
+      "question": "7 × (8 + 2)",
+      "answer": 70,
+      "difficulty": "hard"
+    },
+    {
+      "id": 9,
+      "question": "(25 ÷ 5) + (6 × 3)",
+      "answer": 23,
+      "difficulty": "hard"
+    },
+    {
+      "id": 10,
+      "question": "(12²) - (8²)",
+      "answer": 80,
+      "difficulty": "hard"
+    }
+  ],
+  "metadata": {
+    "count": 10,
+    "source": "generated",
+    "version": 1.0
+  }
+}
